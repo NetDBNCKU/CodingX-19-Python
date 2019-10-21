@@ -27,29 +27,29 @@
 
 - [Lesson 03 - Python Basic II](https://nbviewer.jupyter.org/format/slides/github/NetDBNCKU/CodingX-19-Python/blob/master/Lesson03-Python_Basic(II).ipynb#/?flush_cache=true)
 
-  1. Composite data types (複合資料型態)
-      1.1 list
-      1.2 tuple
-      1.3 dictionary
-  2. Variables, Objects, and References
-  3. Loop (迴圈): while、for
-      3.1 While
-      3.2 Nested loop - While
-      3.3 For
-      3.4 Nested loop - For
+ - 1. Composite data types (複合資料型態)
+     - 1.1 list
+     - 1.2 tuple
+     - 1.3 dictionary
+ - 2. Variables, Objects, and References
+ - 3. Loop (迴圈): while、for
+        - 3.1 While
+        - 3.2 Nested loop - While
+        - 3.3 For
+        - 3.4 Nested loop - For
 
 - [Lesson 04 - Function Basic](https://nbviewer.jupyter.org/format/slides/github/NetDBNCKU/CodingX-19-Python/blob/master/Lesson04-Function.ipynb#/?flush_cache=true)
-  1. Function Basics
-        1.1  Coding Function: 
-        1.2  Why use function
-  2. Scopes
-        3.1 namespace
-        3.2 LEGB
-  4. Arguments
-        3.1 Argument-Passing Basics
-        3.2 Argument Matching Basics
-        3.3 Function Design Concepts
-        3.4 Function Objects
+ - 1. Function Basics
+      - 1.1  Coding Function: 
+      - 1.2  Why use function
+ - 2. Scopes
+      - 3.1 namespace
+      - 3.2 LEGB
+ - 3. Arguments
+      - 3.1 Argument-Passing Basics
+      - 3.2 Argument Matching Basics
+      - 3.3 Function Design Concepts
+      - 3.4 Function Objects
 
 
 ## Support Resources
