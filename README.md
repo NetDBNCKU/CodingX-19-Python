@@ -28,9 +28,9 @@
 - [Lesson 03 - Python Basic II](https://nbviewer.jupyter.org/format/slides/github/NetDBNCKU/CodingX-19-Python/blob/master/Lesson03-Python_Basic(II).ipynb#/?flush_cache=true)
 
  - 1. Composite data types (複合資料型態)
-     - 1.1 list
-     - 1.2 tuple
-     - 1.3 dictionary
+         - 1.1 list
+         - 1.2 tuple
+         - 1.3 dictionary
  - 2. Variables, Objects, and References
  - 3. Loop (迴圈): while、for
         - 3.1 While
